@@ -1,6 +1,6 @@
 name: advent_of_code_2021
 description: A simple command-line application.
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=2.15.0 <3.0.0'
